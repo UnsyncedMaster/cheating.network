@@ -14,7 +14,7 @@
                 "bennytrt/Soulzay",
                 "Whoman",
                 "eforcarl",
-                "Stredja Banan",
+                "Stredja Banan/SB",
                 "Nam3"
             ],
             "year_released": 2022,
@@ -38,28 +38,28 @@
             {
                 "name": "Atonix",
                 "year": 2022
-            },
+            }
         ],
         "pricing": [
             {
-                "method": "FREE",
-                "price": 00,00,
+                "method": "None",
+                "price": "FREE",
                 "currency": "None",
                 "duration": "Lifetime"
-            },
+            }
         ],
         "screenshots": [
             {
                 "year": 2022,
-                "path": "exploits/images/synapse-2015.jpg"
+                "path": "exploits/images/AtonixV1.5.5-2022.jpg"
             },
             {
                 "year": 2022,
-                "path": "exploits/images/synapse-2019.jpg"
+                "path": "exploits/images/Atonix2022.jpg"
             },
             {
                 "year": 2024,
-                "path": "exploits/images/synapse-2024.jpg"
+                "path": "exploits/images/AtonixV2-2022.jpg"
             }
         ]
     }
