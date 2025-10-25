@@ -44,11 +44,11 @@
         "screenshots": [
             {
                 "year": 2022,
-                "path": "exploits/images/Syron2022.jpg"
+                "path": "images/syron/Syron2022.png"
             },
             {
                 "year": 2022,
-                "path": "exploits/images/Syron-2022.jpg"
+                "path": "images/syron/Syron-2022.png"
             }
         ]
     }
