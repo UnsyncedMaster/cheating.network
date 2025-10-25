@@ -1,0 +1,122 @@
+{
+    "exploit": {
+        "tag": "sirhurt",
+        "name": "SirHurt",
+        "status": "Working",
+        "description": [
+            "The longest-running exploit; SirHurt. Stability wise it has been all over the place however it's fairly cheap and isn't super difficult to work with.",
+            "Allegedly the owner of SirHurt (Spook) was said to be a Groomer however evidice of this is lacking and had multiple conflicting images, the (Old) V3rmillion & WeAreDevs thread of the CW is deleted as 1 platform shutdown access and the other has deleted their CW section."
+        ],
+        "meta": {
+            "subtext": "This is the longest running exploit which isn't defunct",
+            "developers": [
+                "Spook",
+                "Aero (Ex-Developer)"
+            ],
+            "year_released": 2015
+        },
+        "warnings": [
+            "This exploit is controversial, please be wary!"
+        ],
+        "websites": [
+            {
+                "title": "sirhurt.net",
+                "url": "https://sirhurt.net"
+            }
+        ],
+        "former_names": [
+            {
+                "name": "AssHurt",
+                "year": 2015
+            }
+        ],
+        "pricing": [
+            {
+                "method": "Crypto",
+                "price": 2.80,
+                "currency": "USD",
+                "duration": "1 Week"
+            },
+            {
+                "method": "PayPal",
+                "price": 2.80,
+                "currency": "USD",
+                "duration": "1 Week"
+            },
+            {
+                "method": "Credit/Debit",
+                "price": 2.80,
+                "currency": "USD",
+                "duration": "1 Week"
+            },
+            {
+                "method": "Apple Pay",
+                "price": 2.80,
+                "currency": "USD",
+                "duration": "1 Week"
+            },
+            {
+                "method": "Google Pay",
+                "price": 2.80,
+                "currency": "USD",
+                "duration": "1 Week"
+            },
+            {
+                "method": "Robux",
+                "price": 2.80,
+                "currency": "USD",
+                "duration": "1 Week"
+            },
+            {
+                "method": "Crypto",
+                "price": 9.50,
+                "currency": "USD",
+                "duration": "1 Month"
+            },
+            {
+                "method": "PayPal",
+                "price": 9.50,
+                "currency": "USD",
+                "duration": "1 Month"
+            },
+            {
+                "method": "Credit/Debit",
+                "price": 9.50,
+                "currency": "USD",
+                "duration": "1 Month"
+            },
+            {
+                "method": "Apple Pay",
+                "price": 9.50,
+                "currency": "USD",
+                "duration": "1 Month"
+            },
+            {
+                "method": "Google Pay",
+                "price": 9.50,
+                "currency": "USD",
+                "duration": "1 Month"
+            },
+            {
+                "method": "Robux",
+                "price": 9.50,
+                "currency": "USD",
+                "duration": "1 Month"   
+            }
+        ],
+        "screenshots": [
+            {
+                "year": 2015,
+                "path": "exploits/images/synapse-2015.jpg"
+            },
+            {
+                "year": 2019,
+                "path": "exploits/images/synapse-2019.jpg"
+            },
+            {
+                "year": 2024,
+                "path": "exploits/images/synapse-2024.jpg"
+            }
+        ]
+    }
+}
