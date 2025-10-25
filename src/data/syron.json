@@ -1,0 +1,55 @@
+{
+    "exploit": {
+        "tag": "syron",
+        "name": "Syron",
+        "status": "Discontinued",
+        "description": [
+            "<strong>Syron</strong>  was a Roblox executor owned by nam3xd and Soulzay / bennytrt. ",
+            "It was released in 2022 and discontinued in 2023. It was an API-sploit, meaning it relied on public modules for injection and execution.", 
+            "It featured a red-pinkish gradient user interface with a custom installer application, a theme system, the ability to use multiple APIs, and a custom API feature, which allowed you to use your own exploit module."
+        ],
+        "meta": {
+            "subtext": "Released in 2022",
+            "developers": [
+                "Nam3",
+                "bennytrt/Soulzay"
+            ],
+            "year_released": 2022,
+            "year_discontinued": 2023
+        },
+        "warnings": [
+            "You cannot get Syron anymore.",
+            "This exploit is discontinued! anyone advertising a new Syron version is scamming or ratting!"
+        ],
+        "websites": [
+            {
+                "title": "syron.carrd.co/",
+                "url": "https://syron.carrd.co/"
+            }
+        ],
+        "former_names": [
+            {
+                "name": "Syron",
+                "year": 2022
+            }
+        ],
+        "pricing": [
+            {
+                "method": "None",
+                "price": "FREE",
+                "currency": "None",
+                "duration": "Lifetime"
+            }
+        ],
+        "screenshots": [
+            {
+                "year": 2022,
+                "path": "exploits/images/Syron2022.jpg"
+            },
+            {
+                "year": 2022,
+                "path": "exploits/images/Syron-2022.jpg"
+            }
+        ]
+    }
+}

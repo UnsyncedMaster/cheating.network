@@ -9,7 +9,7 @@
             "At some point JoeIsGod, a WeAreDevs member joined the team to make a Module (which didn't happen) and the project died, but was revived by Soulzay and also controversial member MTyler1. After a month, the project died once more and was discontinued somewhere in 2024."
         ],
         "meta": {
-            "subtext": "Released in 2019",
+            "subtext": "Released in 2022",
             "developers": [
                 "Soulzay",
                 "JoeIsGod",
@@ -19,93 +19,45 @@
                 "MTyler1",
                 "Nam3"
             ],
-            "year_released": 2016,
+            "year_released": 2022,
             "year_discontinued": 2024
         },
         "warnings": [
             "You cannot get Atonix anymore.",
-            "This exploit is controversial, please be wary!"
+            "This exploit is discontinued! anyone advertising a new Atonix version is scamming or ratting!"
         ],
         "websites": [
             {
-                "title": "synapsesoftworks.llc",
-                "url": "https://synapsesoftworks.llc"
-            },
-            {
-                "title": "x.synapse.to",
-                "url": "https://x.synapse.to"
+                "title": "atonix.carrd.co/",
+                "url": "https://atonix.carrd.co/"
             }
         ],
         "former_names": [
             {
-                "name": "Raindrop",
-                "year": 2015
-            },
-            {
-                "name": "Semic0lon",
-                "year": null
-            },
-            {
-                "name": "Synapse",
-                "year": 2016
+                "name": "Atonix",
+                "year": 2022
             }
         ],
         "pricing": [
             {
-                "method": "BTC (Crypto)",
-                "price": 15,
-                "currency": "USD",
-                "duration": "Lifetime"
-            },
-            {
-                "method": "BCH (Crypto)",
-                "price": 15,
-                "currency": "USD",
-                "duration": "Lifetime"
-            },
-            {
-                "method": "ETH (Crypto)",
-                "price": 15,
-                "currency": "USD",
-                "duration": "Lifetime"
-            },
-            {
-                "method": "LTC (Crypto)",
-                "price": 15,
-                "currency": "USD",
-                "duration": "Lifetime"
-            },
-            {
-                "method": "PayPal",
-                "price": 20,
-                "currency": "USD",
-                "duration": "Lifetime"
-            },
-            {
-                "method": "Amazon (Giftcard)",
-                "price": 20,
-                "currency": "USD",
-                "duration": "Lifetime"
-            },
-            {
-                "method": "Steam (Giftcard)",
-                "price": 20,
-                "currency": "USD",
+                "method": "None",
+                "price": "FREE",
+                "currency": "None",
                 "duration": "Lifetime"
             }
         ],
         "screenshots": [
             {
-                "year": 2015,
-                "path": "exploits/images/synapse-2015.jpg"
+                "year": 2022,
+                "path": "exploits/images/AtonixV1.5.5-2022.jpg"
             },
             {
-                "year": 2019,
-                "path": "exploits/images/synapse-2019.jpg"
+                "year": 2022,
+                "path": "exploits/images/Atonix2022.jpg"
             },
             {
                 "year": 2024,
-                "path": "exploits/images/synapse-2024.jpg"
+                "path": "exploits/images/AtonixV2-2022.jpg"
             }
         ]
     }
