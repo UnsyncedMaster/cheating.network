@@ -1,0 +1,107 @@
+{
+    "exploit": {
+        "tag": "synapse",
+        "name": "Synapse X",
+        "status": "Discontinued",
+        "description": [
+            "One of the longest-running exploits, discontinued in 2024 for various reasons — most notably after publicly stating they received an offer from <strong>Roblox</strong>."
+        ],
+        "meta": {
+            "subtext": "Synapse is potentially the greatest exploit OAT.",
+            "developers": [
+                "3dsboy08",
+                "brack4712",
+                "Louka",
+                "DefCon42",
+                "Eternal"
+            ],
+            "year_released": 2016,
+            "year_discontinued": 2024
+        },
+        "warnings": [
+            "You cannot buy Synapse X anymore, if anyone sells it they're scamming!"
+        ],
+        "websites": [
+            {
+                "title": "synapsesoftworks.llc",
+                "url": "https://synapsesoftworks.llc"
+            },
+            {
+                "title": "x.synapse.to",
+                "url": "https://x.synapse.to"
+            }
+        ],
+        "former_names": [
+            {
+                "name": "Raindrop",
+                "year": 2015
+            },
+            {
+                "name": "Semic0lon",
+                "year": null
+            },
+            {
+                "name": "Synapse",
+                "year": 2016
+            }
+        ],
+        "pricing": [
+            {
+                "method": "BTC (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "BCH (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "ETH (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "LTC (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "PayPal",
+                "price": 20,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "Amazon (Giftcard)",
+                "price": 20,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "Steam (Giftcard)",
+                "price": 20,
+                "currency": "USD",
+                "duration": "Lifetime"
+            }
+        ],
+        "screenshots": [
+            {
+                "year": 2015,
+                "path": "exploits/images/synapse-2015.jpg"
+            },
+            {
+                "year": 2019,
+                "path": "exploits/images/synapse-2019.jpg"
+            },
+            {
+                "year": 2024,
+                "path": "exploits/images/synapse-2024.jpg"
+            }
+        ]
+    }
+}

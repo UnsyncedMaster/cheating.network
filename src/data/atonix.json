@@ -1,0 +1,110 @@
+{
+    "exploit": {
+        "tag": "atonix",
+        "name": "Atonix",
+        "status": "Discontinued",
+        "description": [
+            "<strong>Atonix</strong> was a executor started by now ex-WeAreDevs member Soulzay/bennytrt. In may of 2022 after watching a 1_f0 tutorial. A while later WeAreDevs Members Whoman & eforcarl joined the team and made the logo, script hub, and a remake of the UI in WPF with more APIs.",
+            "A newcomer to the scene by the name of Stredja Banan Joined and remade the UI in Winforms, styled after the then very popular Synapse X. A controversial decision was made, Nam3 joined the team and remade the whole of atonix up until v2.",
+            "At some point JoeIsGod, a WeAreDevs member joined the team to make a Module (which didn't happen) and the project died, but was revived by Soulzay and also controversial member MTyler1. After a month, the project died once more and was discontinued somewhere in 2024."
+        ],
+        "meta": {
+            "subtext": "Released in 2019",
+            "developers": [
+                "3dsboy08",
+                "brack4712",
+                "Louka",
+                "DefCon42",
+                "Eternal"
+            ],
+            "year_released": 2016,
+            "year_discontinued": 2024
+        },
+        "warnings": [
+            "You cannot get Atonix anymore.",
+            "This exploit is controversial, please be wary!"
+        ],
+        "websites": [
+            {
+                "title": "synapsesoftworks.llc",
+                "url": "https://synapsesoftworks.llc"
+            },
+            {
+                "title": "x.synapse.to",
+                "url": "https://x.synapse.to"
+            }
+        ],
+        "former_names": [
+            {
+                "name": "Raindrop",
+                "year": 2015
+            },
+            {
+                "name": "Semic0lon",
+                "year": null
+            },
+            {
+                "name": "Synapse",
+                "year": 2016
+            }
+        ],
+        "pricing": [
+            {
+                "method": "BTC (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "BCH (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "ETH (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "LTC (Crypto)",
+                "price": 15,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "PayPal",
+                "price": 20,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "Amazon (Giftcard)",
+                "price": 20,
+                "currency": "USD",
+                "duration": "Lifetime"
+            },
+            {
+                "method": "Steam (Giftcard)",
+                "price": 20,
+                "currency": "USD",
+                "duration": "Lifetime"
+            }
+        ],
+        "screenshots": [
+            {
+                "year": 2015,
+                "path": "exploits/images/synapse-2015.jpg"
+            },
+            {
+                "year": 2019,
+                "path": "exploits/images/synapse-2019.jpg"
+            },
+            {
+                "year": 2024,
+                "path": "exploits/images/synapse-2024.jpg"
+            }
+        ]
+    }
+}
